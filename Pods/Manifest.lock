@@ -1,0 +1,18 @@
+PODS:
+  - ModuleDemo (0.1.0):
+    - ModuleDemo/Lsubspec (= 0.1.0)
+  - ModuleDemo/Lsubspec (0.1.0)
+
+DEPENDENCIES:
+  - ModuleDemo
+
+SPEC REPOS:
+  https://github.com/zhaole904/LePodspece.git:
+    - ModuleDemo
+
+SPEC CHECKSUMS:
+  ModuleDemo: dcba6ebab643efe108981874c663d44a132d21be
+
+PODFILE CHECKSUM: 3b914f47cc99d1a6f47188d580c98e595cdcd3f5
+
+COCOAPODS: 1.8.4
